@@ -7,7 +7,7 @@ How to use
 1. Clone the repository
 2. Start a web server in the repository directory (e.g. `python -m SimpleHTTPServer 8080`) 
 3. Plug in your headphones to avoid feedback
-4. Browse to `sound-meter.html` and click 'Start'
+4. Browse to `sound_meter.html` and click 'Start'
 4. Make some loud noises and see what happens!
 
 Dependencies
